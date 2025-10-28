@@ -45,7 +45,8 @@ Receba alertas limpos e instantâneos no **Telegram** sempre que um novo jogo ap
 
 ## 🧑‍💻 Créditos
 
-Desenvolvido por **Augusto Bertoli**  / ** Enzo Luiz Bertoli**
+Desenvolvido por **Augusto Bertoli**  / **Enzo Luiz Bertoli**
 Licença [MIT](LICENSE)
+
 
 
